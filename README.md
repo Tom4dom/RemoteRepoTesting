@@ -16,3 +16,7 @@ Just trying to understand how it works. I'm going to use git clone; git push; gi
 ## Images section
 
 ![You seeing this because image couldn't appear](TLC200apocalipsis_ready.jpg)
+
+
+
+Just created this string remotele (on a gitHub) to see it in my local repo
