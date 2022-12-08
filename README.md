@@ -13,6 +13,6 @@ Just trying to understand how it works. I'm going to use git clone; git push; gi
 5. Make some changes remotely and then 
 6. git pull it back to my drive with new strings in it
 
+## Images section
 
-
-
+![You seeing this because image couldn't appear](TLC200apocalipsis_ready.jpg)
