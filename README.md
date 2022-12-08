@@ -20,3 +20,11 @@ Just trying to understand how it works. I'm going to use git clone; git push; gi
 
 
 Just created this string remotele (on a gitHub) to see it in my local repo
+
+
+
+
+
+
+
+1. I'm tired and want to sleep
